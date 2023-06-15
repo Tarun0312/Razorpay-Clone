@@ -1,0 +1,23 @@
+.shadow1:hover{
+    box-shadow: 0px 0px 10px #dd3a3a;
+    transition: all;
+    transition-duration: 200ms;
+}
+
+.zigzaghover:hover{
+   background-image: url("https://raw.githubusercontent.com/Turwash/WebDevelopmentCodeHelp/455be3e7ca22f1d2b0a8e4df421d02b2b7298d9b/Homeworks%20And%20Projects/RazorpayClone/images/features-wave.svg");
+   background-repeat: no-repeat;
+   background-position:right;
+   background-position-y: 10rem;
+ 
+}
+
+.zigzaghoverfeaturesection2:hover{
+   background-image: url("https://raw.githubusercontent.com/Turwash/WebDevelopmentCodeHelp/455be3e7ca22f1d2b0a8e4df421d02b2b7298d9b/Homeworks%20And%20Projects/RazorpayClone/images/features2-wave.svg");
+   background-repeat: no-repeat;
+   background-position:right;
+   background-position-y: 10rem;
+
+   
+}
+
